@@ -1,2 +1,1 @@
-# Fezmart-2.0
-An E-commerce applicaiton written in React. Previous version : VanillaJS.
+A demo repo to test create react app functionality.
